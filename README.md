@@ -1,2 +1,2 @@
 # AEDTeamProject
-AED Team Repository for a
+AED Team Repository for assignments and projects.
